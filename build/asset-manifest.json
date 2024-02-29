@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.898f9173.css",
+    "main.js": "/static/js/main.d8e58344.js",
+    "static/media/feature-1.webp": "/static/media/feature-1.42ba6e5168423208abe3.webp",
+    "static/media/brand-4.svg": "/static/media/brand-4.b31611fdf2b046986e2f3261c7b97434.svg",
+    "static/media/banner-right.webp": "/static/media/banner-right.c9337933ec009790d70d.webp",
+    "static/media/england.jpg": "/static/media/england.5ab0311a40e666cb774f.jpg",
+    "static/media/banner-left.webp": "/static/media/banner-left.7eceeaebcd841ebb752c.webp",
+    "static/media/brand-2.png": "/static/media/brand-2.2708a44b47215d39db64.png",
+    "static/media/brand-1.png": "/static/media/brand-1.1496a4ef882c4787d8f5.png",
+    "static/media/achivement-2.svg": "/static/media/achivement-2.30c555350304da542c1d44aa7c8e4e65.svg",
+    "static/media/achivement-1.svg": "/static/media/achivement-1.55215f2eb0778075344d88c7838159e8.svg",
+    "static/media/brand-3.svg": "/static/media/brand-3.73bc43ae30e5e1648c33debcc6c656a9.svg",
+    "index.html": "/index.html",
+    "main.898f9173.css.map": "/static/css/main.898f9173.css.map",
+    "main.d8e58344.js.map": "/static/js/main.d8e58344.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898f9173.css",
+    "static/js/main.d8e58344.js"
+  ]
+}
